@@ -7,4 +7,4 @@ menu: main
 
 ---
 
-Keep in touch by [signing up here](https://forms.office.com/r/zYaUfb6e1D). Contact us at [hi@dataprotectionscholars.network](mailto:hi@dataprotectionscholars.network).
+Keep in touch by [signing up here](https://forms.office.com/r/zYaUfb6e1D). Contact us at [dpsn@posteo.eu](mailto:dpsn@posteo.eu).
