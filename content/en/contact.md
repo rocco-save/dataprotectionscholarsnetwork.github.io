@@ -7,4 +7,4 @@ menu: main
 
 ---
 
-Coming soon!
+Keep in touch by [signing up here](https://forms.office.com/r/zYaUfb6e1D). Contact us at [hi@dataprotectionscholars.network](mailto:hi@dataprotectionscholars.network).
