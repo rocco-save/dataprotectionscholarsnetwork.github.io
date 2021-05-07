@@ -2,6 +2,7 @@
 title: "Data Protection Scholars Network"
 featured_image: '/images/beep.jpg'
 description: ""
+menu: main
 ---
 Welcome to the **Data Protection Law Scholars Network**.
 
