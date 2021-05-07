@@ -1,7 +1,6 @@
 ---
 title: Useful DP Links
 omit_header_text: true
-description: Coming soon
 type: page
 menu: main
 
