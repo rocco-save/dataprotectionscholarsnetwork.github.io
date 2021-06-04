@@ -21,3 +21,4 @@ The steering committee is assisted in the day-to-day running of the network by f
 
 Ana-Maria Hriscu, PhD Researcher, Tilburg University 
 Olga Gkotsopoulou, PhD Reseacher, Vrije Universiteit Brussel
+[Maria Magierska](https://me.eui.eu/maria-magierska/), Ph.D. Researcher, European University Institute
