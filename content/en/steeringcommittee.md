@@ -18,3 +18,4 @@ The daily management of the Data Protection Law Scholars Network is currently le
 - [Michael Veale](https://michae.lv), Lecturer in Digital Rights and Regulation, University College London
 
 The steering committee is assisted in the day-to-day running of the network by further volunteers, who we will add below.
+Ana-Maria Hriscu, PhD Researcher, Tilburg University 
