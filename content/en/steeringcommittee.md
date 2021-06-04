@@ -21,6 +21,6 @@ The steering committee is assisted in the day-to-day running of the network by f
 
 - Ana-Maria Hriscu, PhD Researcher, Tilburg University 
 - Olga Gkotsopoulou, PhD Reseacher, Vrije Universiteit Brussel
-- [Maria Magierska](https://me.eui.eu/maria-magierska/), Ph.D. Researcher, European University Institute
+- [Maria Magierska](https://me.eui.eu/maria-magierska/), PhD Researcher, European University Institute
 - [Katherine Nolan](https://www.lse.ac.uk/law/people/phd/katherine-nolan), PhD Candidate, London School of Economics
 - [Thilo Gottschalk](https://www.fiz-karlsruhe.de/index.php/en/forschung/lebenslauf-und-publikationen-thilo-gottschalk), Resarch Associate, FIZ Karlsruhe
