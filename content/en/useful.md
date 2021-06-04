@@ -10,9 +10,9 @@ menu: main
 
 -   European Commission -- Data protection
     <https://ec.europa.eu/info/law/law-topic/data-protection_en>
+   
 
--   Council of Europe Data Protection website
-    <https://www.coe.int/en/web/data-protection>
+-   [Council of Europe Data Protection website](https://www.coe.int/en/web/data-protection)
 
 -   Global Privacy Assembly (GPA) <https://globalprivacyassembly.org/>
 
