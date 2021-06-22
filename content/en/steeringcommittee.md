@@ -19,7 +19,7 @@ The daily management of the Data Protection Law Scholars Network is currently le
 
 The steering committee is assisted in the day-to-day running of the network by further volunteers, who we will add below.
 
-- Ana-Maria Hriscu, PhD Researcher, Tilburg University 
+- [Ana-Maria Hriscu](https://www.tilburguniversity.edu/staff/a-m-hriscu), PhD Researcher, Tilburg University 
 - [Olga Gkotsopoulou](https://lsts.research.vub.be/en/olga-gkotsopoulou), PhD Researcher, Vrije Universiteit Brussel
 - [Maria Magierska](https://me.eui.eu/maria-magierska/), PhD Researcher, European University Institute
 - [Katherine Nolan](https://www.lse.ac.uk/law/people/phd/katherine-nolan), PhD Candidate, London School of Economics
