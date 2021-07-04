@@ -86,7 +86,7 @@
 			  			FOI.innerHTML = result.data[i].FOI
 			  			ResearchGroup.innerHTML = result.data[i].ResearchGroup
 			  			Institution.innerHTML = result.data[i].Institution
-			  			InstitutionURL.innerHTML = result.data[i].InstitutionURL
+			  			InstitutionURL.innerHTML = `<a href="${result.data[i].InstitutionURL}"></a>${result.data[i].InstitutionURL} </a>`
 			  	}
 			  	
 			  })
