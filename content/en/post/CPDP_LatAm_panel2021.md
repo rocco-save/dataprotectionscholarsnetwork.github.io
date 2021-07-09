@@ -6,7 +6,7 @@ disable_share: true
 featured_image: "images/CPDPLatAm2021.png"
 ---
 
-We are very glad to participate with a panel to the Conference [CPDP LatAm 2021](https://cpdp.lat/en/program/) taking place from July 14th to 16th 2021. The panel takes place on July 16th (Room 3), 10:00-11:30 BRT/ 16:00-17:30 CEST. We thope to meet many of you there.
+We are very glad to participate with a panel to the Conference [CPDP LatAm 2021](https://cpdp.lat/en/program/) taking place from July 14th to 16th 2021. The panel takes place on **July 16th (Room 3), 10:00-11:30 BRT/ 16:00-17:30 CEST**. We hope to meet many of you there!
 
 **Panel: Data protection law scholars of the world, unite! (in little groups?) Towards a global data protection network?**
 
@@ -17,8 +17,8 @@ In light of the growing importance of data protection laws across the world, the
 - How does coordination look like from a Latin American viewpoint?
 - Could a global data protection network be a useful objective, or should coordination between existing initiatives be the priority?
 
-Moderator: Gloria González Fuster, Vrije Universiteit Brussel
-Speakers:
+**Moderator**: Gloria González Fuster, Vrije Universiteit Brussel
+**Speakers**:
 - Graham Greenleaf, UNSW Australia Faculty of Law
 - Margot Kaminski, University of Colorado
 - Judith Rauhofer, Digital Freedom Fund (DFF)
