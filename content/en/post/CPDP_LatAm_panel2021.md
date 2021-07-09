@@ -3,6 +3,7 @@ date: 2021-07-09
 description: "we hope to see you there!"
 title: "The DPSN at CPDP LatAm 2021"
 disable_share: true
+featured_image: "images/CPDPLatAm2021.png"
 ---
 
 We are very glad to participate with a panel to the Conference [CPDP LatAm 2021](https://cpdp.lat/en/program/) taking place from July 14th to 16th 2021. The panel takes place on July 16th (Room 3), 10:00-11:30 BRT/ 16:00-17:30 CEST. We thope to meet many of you there.
