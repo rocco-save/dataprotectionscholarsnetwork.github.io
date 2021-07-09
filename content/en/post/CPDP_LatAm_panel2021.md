@@ -1,6 +1,5 @@
 ---
 date: 2021-07-09
-description: "we hope to see you there!"
 title: "The DPSN at CPDP LatAm 2021"
 disable_share: true
 featured_image: "images/CPDPLatAm2021.png"
