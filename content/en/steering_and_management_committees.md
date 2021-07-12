@@ -6,7 +6,7 @@ type: page
 menu: main
 
 ---
-The daily management of the Data Protection Law Scholars Network is currently led by the following the Steering Committee. 
+The daily management of the Data Protection Law Scholars Network is currently led by the following Steering Committee:
 
 - [Gloria González Fuster](https://glgonzalezfuster.blog/), Research Professor, Vrije Universiteit Brussel
 - [Jef Ausloos](https://www.uva.nl/profiel/a/u/j.ausloos/j.ausloos.html), Postdoctoral Researcher, Universiteit van Amsterdam
