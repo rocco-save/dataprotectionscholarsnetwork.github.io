@@ -17,10 +17,10 @@ The daily management of the Data Protection Law Scholars Network is currently le
 - [Orla Lynskey](https://www.lse.ac.uk/law/people/academic-staff/orla-lynskey), Associate Professor, London School of Economics
 - [Michael Veale](https://michae.lv), Lecturer in Digital Rights and Regulation, University College London
 
-The steering committee is assisted in the day-to-day running of the network by further volunteers, who we will add below.
+The Management Committee coordinating the Network is composed of:
 
 - [Ana-Maria Hriscu](https://www.tilburguniversity.edu/staff/a-m-hriscu), PhD Researcher, Tilburg University 
 - [Olga Gkotsopoulou](https://lsts.research.vub.be/en/olga-gkotsopoulou), PhD Researcher, Vrije Universiteit Brussel
 - [Maria Magierska](https://me.eui.eu/maria-magierska/), PhD Researcher, European University Institute
 - [Katherine Nolan](https://www.lse.ac.uk/law/people/phd/katherine-nolan), PhD Candidate, London School of Economics
-- [Thilo Gottschalk](https://www.fiz-karlsruhe.de/index.php/en/forschung/lebenslauf-und-publikationen-thilo-gottschalk), Resarch Associate, FIZ Karlsruhe
+- [Thilo Gottschalk](https://www.fiz-karlsruhe.de/index.php/en/forschung/lebenslauf-und-publikationen-thilo-gottschalk), Research Associate, FIZ Karlsruhe
