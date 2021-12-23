@@ -1,3 +1,11 @@
+---
+date: 2021-12-23
+description: "We hope to see you there!"
+title: "DPSN Event on International Data Protection Day"
+disable_share: true
+
+---
+
 # DPSN Event on International Data Protection Day
 
 On 28 January 2022, coinciding with the international Data Protection Day, the DPSN will organise the first ever international quick meet-up of data protection law researchers.
