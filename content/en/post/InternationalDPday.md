@@ -6,8 +6,6 @@ disable_share: true
 
 ---
 
-# DPSN Event on International Data Protection Day
-
 On 28 January 2022, coinciding with the international Data Protection Day, the DPSN will organise the first ever international quick meet-up of data protection law researchers.
  
 We want to create a platform for people to get to know each other’s work better. With this in mind, we are calling for expressions of interest to do very short presentations of your research – be it your developing PhD, interesting master thesis, upcoming promising paper or brand new project. All levels of seniority are welcome, the only requirement being to be open to listen to others in a rigorous yet friendly spirit.
