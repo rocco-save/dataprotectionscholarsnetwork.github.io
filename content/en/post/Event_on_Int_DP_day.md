@@ -20,6 +20,6 @@ On Friday 28 January 2022, 13:00-15:00 Brussels time
 Online.
  
 **How can I participate?**
-Please send your name, affiliation, the title of your presentation, a very short abstract (maximum 2 sentences) and 6 keywords (e.g. GDPR, EU Charter, purpose limitation, data subject rights, DPIAs, DPOs, DPAs, enforcement, data transfers, damages, LED, etc.) to dpsn@posteo.eu by 11th  January 2022.
+Please send your name, affiliation, the title of your presentation, a very short abstract (maximum 2 sentences) and 6 keywords (e.g. GDPR, EU Charter, purpose limitation, data subject rights, DPIAs, DPOs, DPAs, enforcement, data transfers, damages, LED, etc.) to dpsn@posteo.eu before 11th January 2022.
  
 We look forward to hearing from you!
