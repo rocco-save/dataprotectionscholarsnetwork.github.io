@@ -36,6 +36,7 @@ menu: main
 
 ## Useful Documents
 
+-   European Court of Human Rights (ECtHR), *Factsheet: Personal Data Protection,* December 2021 https://www.echr.coe.int/Documents/FS_Data_ENG.pdf
 -   European Court of Human Rights (ECtHR), *Guide to the Case-Law of
     the of the European Court of Human Rights on Data Protection,*
     December 2020
