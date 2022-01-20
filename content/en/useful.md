@@ -103,7 +103,6 @@ menu: main
 -   AlgorithmWatch Newsletter
     <https://algorithmwatch.org/en/newsletter/>
 
--   
 
 ## Other useful online resources
 
