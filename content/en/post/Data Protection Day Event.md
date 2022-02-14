@@ -5,11 +5,12 @@ title: "Data Protection Day Event 2022 - Summary"
 disable_share: true
 ---
 
-On 28 January 2022, coinciding with the Data Protection Day, the Data Protection Law Scholars Network organised the first ever international
-quick meet-up of data protection law researchers. The event brought together more than 150 data protection law scholars from all over the world.  
-27 speakers, divided into two parallel sessions, presented in 3 slides and 5 minutes their current work, be it a developing PhD, an interesting 
-master thesis, a collection of educational material, an upcoming promising paper or a brand-new project. Attendees were randomly allocated to one
-of the two parallel streams, without knowing which speakers they will be listening to.  
+On 28 January 2022, coinciding with the Data Protection Day, the Data Protection Law Scholars Network organised **the first ever international
+quick meet-up of data protection law researchers**. The event brought together **more than 150 data protection law scholars from all over the world**.
+
+**27 speakers, divided into two parallel sessions, presented in 3 slides and 5 minutes their current work**, be it a developing PhD, an interesting 
+master thesis, a collection of educational material, an upcoming promising paper or a brand-new project. **Attendees were randomly allocated to one
+of the two parallel streams, without knowing which speakers they will be listening to**.  
 
 **Gloria González Fuster** (Vrije Universiteit Brussel) welcomed in plenary the participants to the meet-up. Throughout the event, participants were
 actively encouraged to contribute through the chat with comments and questions. **Katie Nolan** (London School of Economics) provided the concluding
