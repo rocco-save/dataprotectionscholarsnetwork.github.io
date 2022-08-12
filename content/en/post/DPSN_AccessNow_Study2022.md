@@ -1,3 +1,9 @@
+---
+date: 2022-08-12
+title: "DPSN Empirical Study for Access Now: 'The right to lodge a data protection complaint: OK, but then what?'!"
+disable_share: true
+---
+
 
 The Data Protection Law Scholars Network is glad to present its first research output, [a pan-European empirical study 
 on the right to lodge a data protection complaint under the General Data Protection Regulation](https://www.accessnow.org/cms/assets/uploads/2022/07/GDPR-Complaint-study.pdf)!
