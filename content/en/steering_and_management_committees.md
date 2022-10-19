@@ -21,6 +21,7 @@ The Management Committee coordinating the Network is composed of:
 
 - [Ana-Maria Hriscu](https://www.tilburguniversity.edu/staff/a-m-hriscu), PhD Researcher, Tilburg University 
 - [Olga Gkotsopoulou](https://lsts.research.vub.be/en/olga-gkotsopoulou), PhD Researcher, Vrije Universiteit Brussel
+- [Rocco Saverino](https://lsts.research.vub.be/en/rocco-saverino), PhD Researcher, Vrije Universiteit Brussel
 - [Maria Magierska](https://me.eui.eu/maria-magierska/), PhD Researcher, European University Institute
 - [Katherine Nolan](https://www.lse.ac.uk/law/people/phd/katherine-nolan), PhD Candidate, London School of Economics
 - [Thilo Gottschalk](https://www.fiz-karlsruhe.de/index.php/en/forschung/lebenslauf-und-publikationen-thilo-gottschalk), Research Associate, FIZ Karlsruhe
